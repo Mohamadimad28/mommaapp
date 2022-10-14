@@ -1,0 +1,13 @@
+{
+  "sign_in": "تسجيل الدخول",
+  "login_to_continue_your_account": "تسجيل الدخول لمواصلة حسابك",
+  "email": "البريد الإلكتروني",
+  "error_email": "البريد الإلكتروني ليس صحيح ",
+  "password": "كلمة المرور",
+  "error_password": "كلمة المرور ليست صحيحة",
+  "forget_password": "هل نسيت كلمة المرور ؟",
+  "login": "تسجيل الدخول",
+  "login_with_facebook": "تسجيل الدخول بواسطة الفيس بوك",
+  "dont_have_an_account": "ليس لديك حساب ؟",
+  "sign_up": "أنشاء حساب "
+}
